@@ -6,8 +6,8 @@ This repo contains the code used for results in the paper "Deterministic Samplin
 All the C code was run through the Open Motion Planning Library (OMPL) at http://ompl.kavrakilab.org/. The MATLAB planning is run through the runFMT.m file. The Julia code is run through the iPython notebook.
 
 ## Dependences
-- For the Julia Code (kinodynamic planning), the iPython notebooks use the code from https://raw.githubusercontent.com/schmrlng/MotionPlanning.jl.
+- For the Julia Code (kinodynamic planning), the iPython notebooks use the code from https://github.com/schmrlng/MotionPlanning.jl.
 - For the C++ code, the Open Motion Planning Library (OMPL) was used and can be found at http://ompl.kavrakilab.org/.
 
 ## Disclaimers
-This code is fairly rough and most likely useful as a reference only. It is also subject to changes, bugs, etc. 
+This code is fairly rough and most likely useful as a reference only. It is also subject to changes, bugs, etc. (See disclaimer at https://github.com/schmrlng/MotionPlanning.jl and add a little alpha.)
